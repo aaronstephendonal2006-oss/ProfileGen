@@ -16,7 +16,7 @@ if (!isset($_SESSION['user'])) {
 
 <h2>Welcome, <?php echo htmlspecialchars($_SESSION['user']); ?>!</h2>
 
-<p>You are successfully logged in.</p>
+<p>You are now logged in. </p>
 <a href="profile.php">Go to Profile</a>
 <a href="logout.php">Logout</a>
 
