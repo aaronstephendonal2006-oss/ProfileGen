@@ -1,0 +1,16 @@
+<?php
+$balance = 450000,
+echo "welcome to the atm bank!";
+?>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    
+    <title>ATM Activity</title>
+<head>
+<body>
+<body>    
